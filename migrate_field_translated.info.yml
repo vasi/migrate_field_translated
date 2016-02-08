@@ -1,0 +1,8 @@
+type: module
+name: Migrate field-translated content
+description: "Migration utilities for D7 field-translated content."
+package: Migration
+core: '8.x'
+dependencies:
+  - migrate_drupal
+  - content_translation
